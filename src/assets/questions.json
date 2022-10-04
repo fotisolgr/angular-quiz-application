@@ -1,0 +1,184 @@
+{
+    "questions": [{
+            "questionText": "How many members of the fellowship are there?",
+            "options": [{
+                    "text": "9",
+                    "correct": true
+                },
+                {
+                    "text": "8"
+                },
+                {
+                    "text": "10"
+                },
+                {
+                    "text": "7"
+                }
+            ],
+            "explanation": "AOUA"
+        },
+        {
+            "questionText": "Who possesses the ring of power at the start of the trilogy?",
+            "options": [{
+                    "text": "Gandalf"
+                },
+                {
+                    "text": "Frodo"
+                },
+                {
+                    "text": "Sauron"
+                },
+                {
+                    "text": "Bilbo",
+                    "correct": true
+                }
+            ],
+            "explanation": "AOUA"
+        },
+        {
+            "questionText": "Who do the hobbits encounter at the Prancing Pony?",
+            "options": [{
+                    "text": "Boromir"
+                },
+                {
+                    "text": "Aragorn",
+                    "correct": true
+                },
+                {
+                    "text": "Gandalf"
+                },
+                {
+                    "text": "Legolas"
+                }
+            ],
+            "explanation": "AOUA"
+        },
+        {
+            "questionText": "What is the name of the elf in the fellowship?",
+            "options": [{
+                    "text": "Elrod"
+                },
+                {
+                    "text": "Gimli"
+                },
+                {
+                    "text": "Galadriel"
+                },
+                {
+                    "text": "Legolas",
+                    "correct": true
+                }
+            ],
+            "explanation": "AOUA"
+        },
+        {
+            "questionText": "What is the name of the dwarf in the fellowship?",
+            "options": [{
+                    "text": "Gimli",
+                    "correct": true
+                },
+                {
+                    "text": "Legolas"
+                },
+                {
+                    "text": "Boromir"
+                },
+                {
+                    "text": "Pipin"
+                }
+            ],
+            "explanation": "AOUA"
+        },
+        {
+            "questionText": "When the pass of Caradhras is blocked, where does Frodo say the fellowship should go?",
+            "options": [{
+                    "text": "Rivendell"
+                },
+                {
+                    "text": "Shair"
+                },
+                {
+                    "text": "Lothlorien"
+                },
+                {
+                    "text": "Moria",
+                    "correct": true
+                }
+            ],
+            "explanation": "AOUA"
+        },
+        {
+            "questionText": "Who is the first member of the fellowship to be separated from the group?",
+            "options": [{
+                    "text": "Legolas"
+                },
+                {
+                    "text": "Gandalf",
+                    "correct": true
+                },
+                {
+                    "text": "Frodo"
+                },
+                {
+                    "text": "Sam"
+                }
+            ],
+            "explanation": "AOUA"
+        },
+        {
+            "questionText": "What happens at the end of the first movie?",
+            "options": [{
+                    "text": "Boromir is killed"
+                },
+                {
+                    "text": "Frodo and Sam leave the others behind"
+                },
+                {
+                    "text": "Merry and Pippin are carried off by orcs and Uruk-hai"
+                },
+                {
+                    "text": "All of the above",
+                    "correct": true
+                }
+            ],
+            "explanation": "AOUA"
+        },
+        {
+            "questionText": "Who has been following Sam and Frodo?",
+            "options": [{
+                    "text": "Golum",
+                    "correct": true
+                },
+                {
+                    "text": "Sauron"
+                },
+                {
+                    "text": "Bilbo"
+                },
+                {
+                    "text": "Elrod"
+                }
+            ],
+            "explanation": "AOUA"
+        },
+        {
+            "questionText": "Where is Saruman’s tower, Orthanc, located?",
+            "options": [{
+                    "text": "Minas Tirith"
+                },
+                {
+                    "text": "Rivendell"
+                },
+                {
+                    "text": "Isengard",
+                    "correct": true
+                },
+                {
+                    "text": "Mordor"
+                }
+            ],
+            "explanation": "AOUA"
+        }
+
+    ]
+}

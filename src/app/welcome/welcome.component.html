@@ -1,0 +1,21 @@
+<div class="container bg-light py-2">
+    <div class="image">
+        <img src="./assets/lotr.png" class="rounded mx-auto d-block" alt="...">
+        <!-- <img style="text-align: center" src="./assets/lotr.png" width="90" alt="logo"/> -->
+    </div>
+    <h1 class="display-5 fw-bold" style="text-align: center; font-style: italic;">Welcome to LOTR Quiz</h1>
+    <p class="fs-5" style="text-align: center; font-style: italic;">This quiz contains 10 questions about Lord of the Rings. For each correct answer you earn 10 points.</p>
+    <ol class="list-group">
+        <li class="list-group-item fw-bold" style="text-align: center; font-style: italic;">Rules</li>
+        <li class="list-group-item" style="font-style: italic">Correct answer gives 10 points.</li>
+        <li class="list-group-item" style="font-style: italic">Incorrect answer gives 0 points.</li>
+        <li class="list-group-item" style="font-style: italic">Each question has to be answered in 30 seconds at most.</li>
+        <li class="list-group-item" style="font-style: italic">Refreshing the page will reset the Quiz.</li>
+    </ol>
+    <div class="col-md-4 my-4" style="width:500;">
+        <div class="input-group mb-3">
+            <input #user_name type="text" class="form-control" style="font-style: italic" size="30" placeholder="Enter your name" aria-label="Recipient's username" aria-describedby="button-addon1">
+            <button class="btn btn-primary btn-lg" type="button" id="button-addon1" routerLink="/question" (click)="startQuiz()">Start the Quiz</button>
+        </div>
+    </div>
+</div>
